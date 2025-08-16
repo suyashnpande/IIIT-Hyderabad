@@ -53,6 +53,6 @@ Instructions for Running Lab 2 Scripts
 
 5. GitHub Repository
 --------------------
-GitHub Repo Link: 
+GitHub Repo Link: https://github.com/suyashnpande/IIIT-Hyderabad/tree/main/Semester%201/SSD/2025201063_lab2
 
 
