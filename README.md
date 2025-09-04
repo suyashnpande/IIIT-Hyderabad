@@ -1,10 +1,10 @@
-## IIIT-H
+# IIIT-H
 Notes and files of Suyash Pande studying in the Computer Science M.Tech Degree at the International Institute of Information Technology, Hyderabad.
 
-Semester I
+## Semester I
 Classes began on 29th July 2025
 
-- Courses:
+### Courses:
 - AOS
 - SSD
 - DSAPS
