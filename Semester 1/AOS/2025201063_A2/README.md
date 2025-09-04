@@ -91,7 +91,7 @@ sleep 10 &
 - Background commands (e.g., `sleep 10 &`) run with `&`, where the shell **spawns a child process**, **prints its PID**, and **continues accepting user input** without waiting.  
 
 ---
-### `pinfo` Command
+### 5. `pinfo` Command
 ```bash
  pinfo 
  pinfo <pid>
@@ -113,7 +113,7 @@ The `search` command recursively checks for a file/folder starting from the **cu
 ---
 
 
-### I/O Redirection
+### 7. I/O Redirection
 
 ```bash
    echo "hello" > output.txt
@@ -160,7 +160,7 @@ The `search` command recursively checks for a file/folder starting from the **cu
 
 
 ---
-### Autocomplete
+### 11. Autocomplete
 ``` bash
 Examples:  
 - `ec<TAB>` → auto-fills to `echo`  
@@ -174,7 +174,7 @@ Autocomplete is implemented using the **readline library** with a custom complet
 
 
 ---
-### History
+### 12. History
 ```bash
 history        # shows last 10 commands  
 history 5      # shows last 5 commands  
